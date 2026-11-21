@@ -188,3 +188,78 @@
 	|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
+	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
+	|RRQB/9k=";
+	Если ПустаяСтрока(СтрокаБ64) Тогда
+		Возврат Неопределено;
+	КонецЕсли;
+	ДвоичныеДанные = Base64Значение(СтрокаБ64);
+	КартинкаЛоготипа = Новый Картинка(ДвоичныеДанные);
+	Возврат КартинкаЛоготипа;
+КонецФункции
+
+// Определяет краткое имя студента из полного ФИО в именительном падеже
+Функция ВыделитьИмяСтудента(ПолноеФИО) Экспорт
+	СтрокаФИО = СокрЛП(ПолноеФИО);
+	Части = СтрРазделить(СтрокаФИО, " ", Ложь);
