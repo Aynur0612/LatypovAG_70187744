@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.11">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.РейтингВоспитательнойАктивности" id="4f6ef126-0f85-5509-b6d8-49d2762b11cb" configVersion="5fd2290be7163240a5be54964b3fa35200000000">
+			<Metadata name="AccumulationRegister.РейтингВоспитательнойАктивности.Dimension.УчебнаяГруппа" id="787ab405-1593-5d6b-8a5a-47fb29ffaff0"/>
+			<Metadata name="AccumulationRegister.РейтингВоспитательнойАктивности.Resource.БаллыАктивности" id="7ba41fa3-9390-58eb-acde-4b3284b0299a"/>
+			<Metadata name="AccumulationRegister.РейтингВоспитательнойАктивности.Dimension.УровеньМероприятия" id="8bd5fc82-abce-5115-8d25-1e07f86b87e6"/>
+			<Metadata name="AccumulationRegister.РейтингВоспитательнойАктивности.Dimension.ВидМероприятия" id="c4564c46-c7d5-5227-acb9-70e14392394a"/>
+			<Metadata name="AccumulationRegister.РейтингВоспитательнойАктивности.Dimension.Студент" id="da685219-0a47-5564-bd28-3b31c62387ef"/>
+			<Metadata name="AccumulationRegister.РейтингВоспитательнойАктивности.Resource.КоличествоМероприятий" id="ec46b5af-8e98-5580-9a7e-aa9407562d3a"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.УчетДисциплинарныхЗамечанийИМер" id="02112760-2b26-5ba3-a1b3-0f95653bc51a" configVersion="cf66677e6b14fc4184e7c8b0a292e4f900000000">
+			<Metadata name="AccumulationRegister.УчетДисциплинарныхЗамечанийИМер.Resource.КоличествоЗамечаний" id="0f902eaa-17e2-5cf3-9b1b-7179581f213e"/>
+			<Metadata name="AccumulationRegister.УчетДисциплинарныхЗамечанийИМер.Dimension.ВидЗамечания" id="5d8b74ce-af60-5cec-a42e-19de5b8fcb34"/>
+			<Metadata name="AccumulationRegister.УчетДисциплинарныхЗамечанийИМер.Dimension.Студент" id="711c222d-be70-5171-a93f-cc87143fb906"/>
+			<Metadata name="AccumulationRegister.УчетДисциплинарныхЗамечанийИМер.Dimension.УчебнаяГруппа" id="74867484-456e-5ac8-868b-81bf3b2ac1c7"/>
+			<Metadata name="AccumulationRegister.УчетДисциплинарныхЗамечанийИМер.Resource.КоличествоПрофилактическихБесед" id="92d81bb4-c380-5f6e-9bc8-1632c484dad4"/>
+			<Metadata name="AccumulationRegister.УчетДисциплинарныхЗамечанийИМер.Resource.ШтрафныеБаллыДисциплины" id="9688ec00-100e-5b6d-b541-1f48c817786a"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.УчетПосещаемостиИПропусков" id="ceaff8b9-e205-5252-b33e-ddd55bdf1668" configVersion="c0886913c0610c46b0d7d5cdd663872400000000">
+			<Metadata name="AccumulationRegister.УчетПосещаемостиИПропусков.Resource.ЧасыПропусковВсего" id="1caef648-dc01-5727-9c0e-68a6646f1d21"/>
+			<Metadata name="AccumulationRegister.УчетПосещаемостиИПропусков.Dimension.Курс" id="39b157ad-3e03-56a3-aa13-e0002a105e5d"/>
+			<Metadata name="AccumulationRegister.УчетПосещаемостиИПропусков.Dimension.Студент" id="45306cf5-bebd-5ed2-a366-ec939736fca9"/>
+			<Metadata name="AccumulationRegister.УчетПосещаемостиИПропусков.Resource.ЧасыБезУважительнойПричины" id="7edc9847-9f6b-5fb7-9e50-4c291a616d23"/>
+			<Metadata name="AccumulationRegister.УчетПосещаемостиИПропусков.Dimension.УчебнаяГруппа" id="a2857d5b-e13b-5a11-a516-c9dc2e22c91e"/>
+			<Metadata name="AccumulationRegister.УчетПосещаемостиИПропусков.Resource.КоличествоОпозданий" id="e91b7ed7-5fe3-52a6-b4e3-9f98c52f65c2"/>
+			<Metadata name="AccumulationRegister.УчетПосещаемостиИПропусков.Dimension.УчебныйПериод" id="f3f42d74-eea0-5fbc-ae62-21df89f00451"/>
+			<Metadata name="AccumulationRegister.УчетПосещаемостиИПропусков.Dimension.УважительнаяПричина" id="fc6eca46-0052-569b-b3ef-84c3e707f34e"/>
+		</Metadata>
+		<Metadata name="BusinessProcess.СогласованиеИВыдачаХарактеристикиСтудента" id="94ccdca1-cbcc-54e6-b384-aca419e0010a" configVersion="85f847169e0a8148adf58c1cb52b8a8800000000">
+			<Metadata name="BusinessProcess.СогласованиеИВыдачаХарактеристикиСтудента.Attribute.Студент" id="785a3a7f-c0c1-51b9-be46-82873ca6b34e"/>
+			<Metadata name="BusinessProcess.СогласованиеИВыдачаХарактеристикиСтудента.Attribute.Куратор" id="834dcdd7-8c97-5dac-ac6d-e70d50bacf66"/>
+			<Metadata name="BusinessProcess.СогласованиеИВыдачаХарактеристикиСтудента.Attribute.УчебнаяГруппа" id="c78c516c-fe6a-5c19-84bd-bdc1a8bcd9f5"/>
+			<Metadata name="BusinessProcess.СогласованиеИВыдачаХарактеристикиСтудента.Attribute.РезультатСогласования" id="dc16f94e-ccc8-5d89-9e97-8cef595b866c"/>
+			<Metadata name="BusinessProcess.СогласованиеИВыдачаХарактеристикиСтудента.Attribute.СогласующийРуководитель" id="eb3798f5-e5d7-508f-ba82-3f01f3812896"/>
+			<Metadata name="BusinessProcess.СогласованиеИВыдачаХарактеристикиСтудента.Attribute.ДокументХарактеристика" id="fda1f46e-c3e2-5272-834f-6ee62f7668cb"/>
+		</Metadata>
+		<Metadata name="Catalog.АдресатыВыдачиХарактеристик" id="12ae8734-8ae9-50b3-bb86-8ce0fd779d05" configVersion="1617037a2ceabb44bee3ac3446bc388700000000">
+			<Metadata name="Catalog.АдресатыВыдачиХарактеристик.Attribute.ФормулировкаВПодвале" id="325bec8a-a19f-57a9-abae-64caac735243"/>
+			<Metadata name="Catalog.АдресатыВыдачиХарактеристик.Attribute.ТребуетсяПечатьОтделения" id="740003cd-0308-50df-ad1f-4f3fe62c2970"/>
+			<Metadata name="Catalog.АдресатыВыдачиХарактеристик.Attribute.ТипОрганизации" id="97432e9f-5ce2-5cac-aa0e-890d006ba3bf"/>
+		</Metadata>
+		<Metadata name="Catalog.ВидыВоспитательныхМероприятий" id="22034d34-648a-5a60-8b69-ced8c49fbb04" configVersion="5e209aeb2377f449abc9c80d372650fb00000000">
+			<Metadata name="Catalog.ВидыВоспитательныхМероприятий.Attribute.БазовыйБаллАктивности" id="1919f61b-b34f-5867-8bda-321403deac74"/>
+			<Metadata name="Catalog.ВидыВоспитательныхМероприятий.Attribute.УровеньПоУмолчанию" id="8b85d4f0-fec1-5548-a2bf-1da4c886ecec"/>
+			<Metadata name="Catalog.ВидыВоспитательныхМероприятий.Attribute.НаправлениеВоспитания" id="8cb73ab1-3c8e-5995-8407-ca4f5405d136"/>
+		</Metadata>
+		<Metadata name="Catalog.ВидыДисциплинарныхВзысканийИПоощрений" id="3f9b03a3-7077-5f98-9436-b652977ba493" configVersion="bd2ba493f9dc754ca55704dc1cfeef6300000000">
+			<Metadata name="Catalog.ВидыДисциплинарныхВзысканийИПоощрений.Attribute.ТипВоздействия" id="06ead086-61fb-55ba-90d9-e2d602697772"/>
+			<Metadata name="Catalog.ВидыДисциплинарныхВзысканийИПоощрений.Attribute.ВесовойКоэффициент" id="6d425a89-cb49-5f9b-8e24-a4eb33cfecb2"/>
+			<Metadata name="Catalog.ВидыДисциплинарныхВзысканийИПоощрений.Attribute.ТребуетУведомленияРодителей" id="7f2926ff-4a5c-5c1b-bda7-edfbc702126f"/>
+		</Metadata>
+		<Metadata name="Catalog.Должности" id="9f9d3ae3-7167-54db-9194-3a22269b8b26" configVersion="2d10397b8b7879478d44a72b6709d93300000000">
+			<Metadata name="Catalog.Должности.Attribute.ОписаниеФункций" id="41603e63-3bf8-5a26-8645-52142fc48753"/>
+			<Metadata name="Catalog.Должности.Attribute.КатегорияПерсонала" id="d8acd40a-7184-58ad-9844-a9b5478f2e15"/>
+		</Metadata>
+		<Metadata name="Catalog.ОбщественныеПоручения" id="e4b05108-5c87-55c4-941f-4567693d9b41" configVersion="788518dd4f6ecd4cbadc59883226259500000000">
+			<Metadata name="Catalog.ОбщественныеПоручения.Attribute.БаллЗаВыполнение" id="5834798c-0385-5b9e-97c0-17ca34b582f8"/>
+			<Metadata name="Catalog.ОбщественныеПоручения.Attribute.НаправлениеДеятельности" id="e6fca272-a878-59ba-bb0c-1400c7aa9491"/>
+		</Metadata>
+		<Metadata name="Catalog.ПричиныПропусковЗанятий" id="694800b8-2611-5ac9-83dd-450758db4fbf" configVersion="7a07b1932e2bd1489020f655082d145e00000000">
+			<Metadata name="Catalog.ПричиныПропусковЗанятий.Attribute.КодВТабеле" id="2075bdec-146c-5ad3-9631-c1c98ff71ff4"/>
+			<Metadata name="Catalog.ПричиныПропусковЗанятий.Attribute.ТребуетПодтверждающийДокумент" id="52f04183-1bcd-5c3e-b010-9f33ff2370ea"/>
+			<Metadata name="Catalog.ПричиныПропусковЗанятий.Attribute.УважительнаяПричина" id="d4648a95-d599-5d0d-b955-7f956822d122"/>
+		</Metadata>
+		<Metadata name="Catalog.СотрудникиКолледжа" id="c3f2afd1-f523-5c11-9469-258baf802952" configVersion="f9bbf163df361449bffe93dda15be06600000000">
+			<Metadata name="Catalog.СотрудникиКолледжа.Attribute.Должность" id="2f596aed-708c-511f-95c8-f2b9feb433e0"/>
+			<Metadata name="Catalog.СотрудникиКолледжа.Attribute.КраткоеФИО" id="537cb58c-4311-5d59-99e2-1965289722cf"/>
+			<Metadata name="Catalog.СотрудникиКолледжа.Attribute.Телефон" id="61874f2a-18c5-5024-92b0-0b0acf975b39"/>
+			<Metadata name="Catalog.СотрудникиКолледжа.Attribute.СтруктурноеПодразделение" id="66f26528-82d5-5054-b945-03e9892a05b7"/>
+			<Metadata name="Catalog.СотрудникиКолледжа.Attribute.ЭлектроннаяПочта" id="cf19ecde-496a-50ed-9f3b-ad057c0938c3"/>
+		</Metadata>
+		<Metadata name="Catalog.СпециальностиИПрофессии" id="7698ff65-e262-5075-a6ba-cf69acd990cf" configVersion="8a800f46c8e04f42a9ade74db3853f7200000000">
+			<Metadata name="Catalog.СпециальностиИПрофессии.Attribute.СрокОбученияМесяцев" id="17fbb92a-d874-5586-8483-2fe2c7892357"/>
+			<Metadata name="Catalog.СпециальностиИПрофессии.Attribute.ШифрСпециальности" id="35a9d764-8d80-536c-902d-bc79eb98e1f0"/>
+			<Metadata name="Catalog.СпециальностиИПрофессии.Attribute.Квалификация" id="f24cb4f9-6072-5f27-a4e7-71ccc263e5fa"/>
+		</Metadata>
+		<Metadata name="Catalog.СтруктурныеПодразделения" id="04b2ed0b-2b48-51eb-ae3a-077b68258bc1" configVersion="963fce09b223364f87e91dd29e66cf7000000000">
+			<Metadata name="Catalog.СтруктурныеПодразделения.Attribute.РуководительПодразделения" id="acd8728e-09b4-55be-b205-8861c0096651"/>
+			<Metadata name="Catalog.СтруктурныеПодразделения.Attribute.Телефон" id="c68051f6-96eb-58c6-a5dd-fe7577bd0f9f"/>
+			<Metadata name="Catalog.СтруктурныеПодразделения.Attribute.АдресКорпуса" id="eb6b38ce-0ec9-5216-8705-fd35a6bcb2d3"/>
+		</Metadata>
+		<Metadata name="Catalog.Студенты" id="b8de46ea-d3d8-5a94-b1c6-fcd5ca818136" configVersion="7115369b05211d4d92dc1b422d160f7f00000000">
+			<Metadata name="Catalog.Студенты.Attribute.Пол" id="1a06abd2-af9b-54bc-a5de-37773830f57f"/>
+			<Metadata name="Catalog.Студенты.Attribute.ФормаОбучения" id="225877a3-ac75-5b42-bde8-cbd91b8d6b94"/>
+			<Metadata name="Catalog.Студенты.Attribute.Статус" id="35220525-8f0f-5b22-b22a-2a65e33fba02"/>
+			<Metadata name="Catalog.Студенты.Attribute.ДатаРождения" id="3b87b0b0-f9d1-556d-9710-b13cdb4d76f8"/>
+			<Metadata name="Catalog.Студенты.Attribute.ФамилияИмяОтчествоРодПадеж" id="44cee413-c7ef-54b7-896c-1060360b203a"/>
+			<Metadata name="Catalog.Студенты.Attribute.ГодПоступления" id="60f2639f-c48b-566a-9f21-a4ad814d3d92"/>
+			<Metadata name="Catalog.Студенты.Attribute.АдресПроживания" id="686f0e99-19f7-59a1-8ca4-a4fd8162cb02"/>
+			<Metadata name="Catalog.Студенты.Attribute.ОбщественноеПоручение" id="89026dc0-7940-5bbf-8eb3-8bc70dbd5bd3"/>
+			<Metadata name="Catalog.Студенты.Attribute.УчебнаяГруппа" id="c22087e6-1eb7-57e3-9e93-6640d52ef375"/>
+		</Metadata>
+		<Metadata name="Catalog.ТворческиеИСпортивныеОбъединения" id="546468b6-a187-55a5-9ed3-d0e4af663caa" configVersion="d8dd2be478bb4248ba5711e3b7b77f4c00000000">
+			<Metadata name="Catalog.ТворческиеИСпортивныеОбъединения.Attribute.РасписаниеЗанятий" id="093c4af8-7ca3-5a53-9b42-65773b5207cd"/>
+			<Metadata name="Catalog.ТворческиеИСпортивныеОбъединения.Attribute.МестоПроведения" id="62c86035-ad9a-5ba6-8fc7-ee939b5b3870"/>
+			<Metadata name="Catalog.ТворческиеИСпортивныеОбъединения.Attribute.РуководительОбъединения" id="6712c390-2e3b-5c24-94ac-b3ef78d23651"/>
+		</Metadata>
+		<Metadata name="Catalog.УчебныеГруппы" id="92b7b777-1f1b-5274-9c41-ca7650e3a808" configVersion="b50f5be211420b47b1e0e79692e042fd00000000">
+			<Metadata name="Catalog.УчебныеГруппы.Attribute.СтруктурноеПодразделение" id="09ff2630-fc14-55be-b07f-48e24f907240"/>
+			<Metadata name="Catalog.УчебныеГруппы.Attribute.Специальность" id="27d6735e-0bf3-5bae-96b0-fc54cf9c4c6a"/>
+			<Metadata name="Catalog.УчебныеГруппы.Attribute.Курс" id="441e4324-1c1c-5592-a1dc-dccfb9c70ca8"/>
+			<Metadata name="Catalog.УчебныеГруппы.Attribute.ФормаОбучения" id="db3c92dd-e816-5a22-bf4b-a35a5637fb6c"/>
+			<Metadata name="Catalog.УчебныеГруппы.Attribute.Куратор" id="dd36aac8-4dbd-5c2b-be05-b548ca4c6634"/>
+			<Metadata name="Catalog.УчебныеГруппы.Attribute.ГодНабора" id="e04c3c8c-ee2e-52a8-a8a0-8e62b850ba53"/>
+		</Metadata>
+		<Metadata name="Catalog.УчебныеДисциплины" id="ad19ecf8-7ff2-5914-90b6-b8162e4b4b80" configVersion="eb3d22c218f48e47ba1f42c51a97e63e00000000">
+			<Metadata name="Catalog.УчебныеДисциплины.Attribute.ИндексДисциплины" id="4358779a-e529-51d2-8410-4cc5ba6e61f8"/>
+			<Metadata name="Catalog.УчебныеДисциплины.Attribute.ОбъемЧасов" id="89e482e3-3baf-5df8-83ac-1d61dcd72b18"/>
+			<Metadata name="Catalog.УчебныеДисциплины.Attribute.ЦиклДисциплины" id="a46219b5-803c-50d9-acdf-6873ac185f34"/>
+			<Metadata name="Catalog.УчебныеДисциплины.Attribute.КурсИзучения" id="f4bf41d0-c2d8-5b7f-a299-e2eddfa931b9"/>
+		</Metadata>
+		<Metadata name="Catalog.УчебныеПериоды" id="7bdd1a3f-3a52-51cb-878c-c42896f86570" configVersion="46935680432ac94ba22d0aa72bc0606100000000">
+			<Metadata name="Catalog.УчебныеПериоды.Attribute.ДатаНачала" id="00bdab8b-c277-5d7c-9407-317337027b3a"/>
+			<Metadata name="Catalog.УчебныеПериоды.Attribute.НомерПолугодия" id="74fba631-51eb-5290-97f7-52b72c268c24"/>
+			<Metadata name="Catalog.УчебныеПериоды.Attribute.УчебныйГод" id="a678e093-0ea1-5d7a-aad3-b78445d8af27"/>
+			<Metadata name="Catalog.УчебныеПериоды.Attribute.ДатаОкончания" id="c8feda46-fc0a-569d-9463-aff9e9e1e37c"/>
+		</Metadata>
+		<Metadata name="Catalog.ШаблоныФразХарактеристик" id="5aaeb18c-f260-54e1-a0b2-d6c017ff4e19" configVersion="f3b965ebe5522545b0c307cc66be579800000000">
+			<Metadata name="Catalog.ШаблоныФразХарактеристик.Attribute.ТекстДляЖенскогоПола" id="28d395a9-83ea-5672-b672-54076c818f9b"/>
+			<Metadata name="Catalog.ШаблоныФразХарактеристик.Attribute.РазделХарактеристики" id="473093f2-cf04-5e1a-aef9-2da7987f70f6"/>
+			<Metadata name="Catalog.ШаблоныФразХарактеристик.Attribute.КодПрофиля" id="56ee9e00-efad-575d-8918-18c5cca8ba54"/>
+			<Metadata name="Catalog.ШаблоныФразХарактеристик.Attribute.ТекстДляМужскогоПола" id="aeca4054-d3ac-5728-a7c8-fafc5f7594fd"/>
+		</Metadata>
+		<Metadata name="CommonModule.АналитикаИПечатьОтчетовКуратора" id="a52a3227-2618-59e4-b022-636af5d76764" configVersion="86b7a6de1497bc40bd7ade3c63c409a700000000"/>
+		<Metadata name="CommonModule.АналитикаИПечатьОтчетовКуратора.Module" id="a52a3227-2618-59e4-b022-636af5d76764.0" configVersion="6190972d0afe7e4e92e31c6f2f619bec00000000"/>
+		<Metadata name="CommonModule.ИнициализацияТестовыхДанныхСПК" id="f57f0b6a-ab32-53be-a18b-67e70a9256dd" configVersion="0cfd45e8a5198e43b1392ab203cb203e00000000"/>
+		<Metadata name="CommonModule.ИнициализацияТестовыхДанныхСПК.Module" id="f57f0b6a-ab32-53be-a18b-67e70a9256dd.0" configVersion="7998e114c1ef484d9a068c1dedc1060500000000"/>
+		<Metadata name="CommonModule.ФормированиеХарактеристикСПКСервер" id="badd8e04-4b62-5d08-a734-22a0f9fdf66b" configVersion="228939ce0b64c24bb83f6cf2faf198bf00000000"/>
+		<Metadata name="CommonModule.ФормированиеХарактеристикСПКСервер.Module" id="badd8e04-4b62-5d08-a734-22a0f9fdf66b.0" configVersion="cbacc87276f3fb479f4a3b039249bdae00000000"/>
+		<Metadata name="Configuration.ЛатыповАГ_70187744" id="5d4cc084-bf6e-4cc2-a278-79c4c7382ea5" configVersion="50dd90a7bbdc194bac772d19949343a300000000"/>
+		<Metadata name="Configuration.ЛатыповАГ_70187744.ManagedApplicationModule" id="826ac914-15e3-418d-8756-9fb7334d1dd6.6" configVersion="fe7c10b2b555094ab95826dc20d2cab900000000"/>
+		<Metadata name="Constant.НаименованиеОбразовательнойОрганизации" id="460b864b-f20c-5ec9-8305-c33b82d96b51" configVersion="d2aeeac2b72b314b9f1057f753d5068b00000000"/>
+		<Metadata name="Constant.ПорогКритическихПропусковЧасов" id="ae8ff65b-7005-5f57-84b2-5e6b58c67ff9" configVersion="fcaf159b6970374a99c64bf6ce85cd6200000000"/>
+		<Metadata name="Constant.ТекущийУчебныйГод" id="7bc8ae9a-53a3-5db2-a186-33364139e739" configVersion="53ba3fe8ef0ffd43810a7daa342b392100000000"/>
+		<Metadata name="DataProcessor.РабочийСтолКуратора" id="5aefb136-e71e-556f-a80b-be2ba1828d65" configVersion="a348a1c0eabc0d4f8a2671a4897d17b400000000">
+			<Metadata name="DataProcessor.РабочийСтолКуратора.Attribute.Организация" id="03bd0042-63ce-55d3-b61f-6ebdb98b60b5"/>
+			<Metadata name="DataProcessor.РабочийСтолКуратора.Attribute.ВыбранныйСтудент" id="0876d04d-502a-54af-a9a6-c17c8a94d003"/>
+			<Metadata name="DataProcessor.РабочийСтолКуратора.Attribute.УчебныйПериод" id="0fc7e836-f252-5a46-91de-1f6500f6b88f"/>
+			<Metadata name="DataProcessor.РабочийСтолКуратора.Attribute.СтруктурноеПодразделение" id="36aac2a9-f2a4-5e1e-b1c4-4ba86a9097e2"/>
+			<Metadata name="DataProcessor.РабочийСтолКуратора.Command.ПечатьТабеляУспеваемости" id="3acb3cb2-7681-50ce-8f40-fb71cb8db0eb"/>
+			<Metadata name="DataProcessor.РабочийСтолКуратора.Attribute.Куратор" id="5ef0a16b-c8b7-50b7-8efa-aee0022cdd9b"/>
+			<Metadata name="DataProcessor.РабочийСтолКуратора.Attribute.УчебнаяГруппа" id="9b83c674-a640-5dec-af0f-0a92efccb7eb"/>
+			<Metadata name="DataProcessor.РабочийСтолКуратора.Command.ПечатьСпискаПосещаемости" id="a3bd5d9a-3b2a-572f-9001-691084aeabe8"/>
+			<Metadata name="DataProcessor.РабочийСтолКуратора.Command.МастерСозданияХарактеристики" id="a79f093d-18f9-515a-ad74-d8fc2d356300"/>
+		</Metadata>
+		<Metadata name="DataProcessor.РабочийСтолКуратора.Command.МастерСозданияХарактеристики.CommandModule" id="a79f093d-18f9-515a-ad74-d8fc2d356300.2" configVersion="1f1d44556a62a44ebc5572d53e91932300000000"/>
+		<Metadata name="DataProcessor.РабочийСтолКуратора.Command.ПечатьСпискаПосещаемости.CommandModule" id="a3bd5d9a-3b2a-572f-9001-691084aeabe8.2" configVersion="c9440b0192c6cd4bb329e36989f2fc0b00000000"/>
+		<Metadata name="DataProcessor.РабочийСтолКуратора.Command.ПечатьТабеляУспеваемости.CommandModule" id="3acb3cb2-7681-50ce-8f40-fb71cb8db0eb.2" configVersion="e5b81a94d8f11d4fbf2b8837a6729c3c00000000"/>
+		<Metadata name="Document.АктФиксацииДисциплинарногоНарушения" id="dc9eb187-8a35-5fc8-85bd-64a33eeb8654" configVersion="63dd46f98aa68b4bb137fb4c0502af1400000000">
+			<Metadata name="Document.АктФиксацииДисциплинарногоНарушения.Attribute.ОписаниеНарушения" id="39728b57-54b3-5a32-87e3-82695b58b96e"/>
+			<Metadata name="Document.АктФиксацииДисциплинарногоНарушения.Attribute.УчебнаяГруппа" id="4d05a64e-be45-5970-9117-d390841bd2d1"/>
+			<Metadata name="Document.АктФиксацииДисциплинарногоНарушения.Attribute.Куратор" id="7baea07d-6f99-5963-ba07-631b8c64cee2"/>
+			<Metadata name="Document.АктФиксацииДисциплинарногоНарушения.Attribute.УчебныйПериод" id="8827fdd1-6b1d-52df-a400-d73259fb0478"/>
+			<Metadata name="Document.АктФиксацииДисциплинарногоНарушения.Attribute.ВидЗамечания" id="c5acca0c-9bc5-5b18-b78a-c58a304a009f"/>
+			<Metadata name="Document.АктФиксацииДисциплинарногоНарушения.Attribute.Студент" id="e719d43e-82b3-5975-bc3e-6b7fec4e09f1"/>
+			<Metadata name="Document.АктФиксацииДисциплинарногоНарушения.Attribute.ШтрафныеБаллы" id="fd88f00a-ecd8-5047-a400-887b16755641"/>
+		</Metadata>
+		<Metadata name="Document.АктФиксацииДисциплинарногоНарушения.ObjectModule" id="dc9eb187-8a35-5fc8-85bd-64a33eeb8654.0" configVersion="190619c06aa85d439849f10e836f145500000000"/>
+		<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета" id="0bbf011e-28f8-57ab-ace0-80d666928405" configVersion="1dfbd543e10df9498ebd25b3af2f398d00000000">
+			<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета.Attribute.ОтношениеКВреднымПривычкам" id="5b0b1330-4c16-5c48-a26d-d9f89168bb7f"/>
+			<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета.Attribute.УчебнаяГруппа" id="758b82af-5e93-5ff8-97b2-8c39324f0176"/>
+			<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета.Attribute.ДополнительныеСведенияИВПК" id="790922c8-3fc4-586d-b95e-efb8c12312bb"/>
+			<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета.Attribute.ПсихологическаяХарактеристика" id="85c0dcd1-8def-5c99-b3a0-8ab6735195a8"/>
+			<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета.Attribute.ВзаимоотношенияВСемье" id="8636d1dc-a399-50c8-a3ff-200c9c2abf02"/>
+			<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета.Attribute.Студент" id="9d6089af-ba1f-5c6f-b542-09086a8433ff"/>
+			<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета.Attribute.ПроведеннаяПрофилактическаяРабота" id="e7bb937e-e7d4-5a60-a530-ef830bca435f"/>
+			<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета.Attribute.ПедагогПсихолог" id="f6b4dbfd-cf46-56db-b299-9b1751c00b9f"/>
+		</Metadata>
+		<Metadata name="Document.АнкетаСоциальноПсихологическогоУчета.ObjectModule" id="0bbf011e-28f8-57ab-ace0-80d666928405.0" configVersion="8ab5c3ab3893454b9ad56f2079703e3d00000000"/>
+		<Metadata name="Document.АттестационнаяВедомостьГруппы" id="18e4c3c0-e4b5-52c9-81cc-186dcd7a9d4c" configVersion="33af5da86aacb74598cee2d5dc4e813400000000">
+			<Metadata name="Document.АттестационнаяВедомостьГруппы.Attribute.УчебнаяГруппа" id="15ab45b2-1bd4-5029-9003-997432120e98"/>
+			<Metadata name="Document.АттестационнаяВедомостьГруппы.TabularSection.ОценкиСтудентов.Attribute.Студент" id="18ff3334-9518-5d85-8c57-5256dcce9914"/>
+			<Metadata name="Document.АттестационнаяВедомостьГруппы.TabularSection.ОценкиСтудентов.Attribute.Оценка" id="5953acb1-7a76-5d1a-8b43-6c8ce84b38e0"/>
+			<Metadata name="Document.АттестационнаяВедомостьГруппы.Attribute.Курс" id="7d17a252-ef39-5bba-a88d-6b5e6040305c"/>
+			<Metadata name="Document.АттестационнаяВедомостьГруппы.Attribute.Преподаватель" id="7de5fa16-6a32-5d62-91fd-16271af31167"/>
+			<Metadata name="Document.АттестационнаяВедомостьГруппы.TabularSection.ОценкиСтудентов" id="96c3c087-c096-547a-9142-383c58d3e68b"/>
+			<Metadata name="Document.АттестационнаяВедомостьГруппы.TabularSection.ОценкиСтудентов.Attribute.СреднийБалл" id="a50ebe76-e26c-5224-a0c6-4cebc90d6aa0"/>
+			<Metadata name="Document.АттестационнаяВедомостьГруппы.Attribute.УчебныйПериод" id="c1c79ab2-d488-58e1-9f61-2113453c11eb"/>
+			<Metadata name="Document.АттестационнаяВедомостьГруппы.TabularSection.ОценкиСтудентов.Attribute.УчебнаяДисциплина" id="e714bdbd-b061-5dd5-9bc7-809c7ad8f6e3"/>
+		</Metadata>
+		<Metadata name="Document.АттестационнаяВедомостьГруппы.ObjectModule" id="18e4c3c0-e4b5-52c9-81cc-186dcd7a9d4c.0" configVersion="464bc95c09dce547ba407363525bf84b00000000"/>
+		<Metadata name="Document.ВедомостьАкадемическихЗадолженностей" id="5abfbcd3-0441-5f05-8eeb-d33b7605c9a4" configVersion="108b890bab2f0944bd32fa8a5fb8435700000000">
+			<Metadata name="Document.ВедомостьАкадемическихЗадолженностей.TabularSection.НеаттестованныеДисциплины" id="09506b9f-a8da-5d16-bb69-e3bc3865ca73"/>
+			<Metadata name="Document.ВедомостьАкадемическихЗадолженностей.TabularSection.НеаттестованныеДисциплины.Attribute.Студент" id="17672d1d-123f-5a67-98c0-70945f1e394f"/>
+			<Metadata name="Document.ВедомостьАкадемическихЗадолженностей.TabularSection.НеаттестованныеДисциплины.Attribute.УчебнаяДисциплина" id="2cb8f4b6-69a2-5729-8dc9-1f323b8942f4"/>
+			<Metadata name="Document.ВедомостьАкадемическихЗадолженностей.Attribute.Куратор" id="958e672b-f5cc-57c5-ade8-f8440e8030c2"/>
+			<Metadata name="Document.ВедомостьАкадемическихЗадолженностей.Attribute.УчебныйПериод" id="9d3fb65c-888d-5505-9a4c-95b693329d5a"/>
+			<Metadata name="Document.ВедомостьАкадемическихЗадолженностей.TabularSection.НеаттестованныеДисциплины.Attribute.Курс" id="a3d76aab-382c-5a5d-a053-05a5f45af07c"/>
+			<Metadata name="Document.ВедомостьАкадемическихЗадолженностей.Attribute.УчебнаяГруппа" id="f9da550c-b774-5105-a8a5-13c4f357398c"/>
+		</Metadata>
+		<Metadata name="Document.ВедомостьАкадемическихЗадолженностей.ObjectModule" id="5abfbcd3-0441-5f05-8eeb-d33b7605c9a4.0" configVersion="23bf6185170cc94bafea7ee6f9cdd55700000000"/>
+		<Metadata name="Document.ВедомостьУчетаПосещаемости" id="0e482b37-cb60-5634-8b16-1452af313eeb" configVersion="208eab478be90f48b24202490424e52600000000">
+			<Metadata name="Document.ВедомостьУчетаПосещаемости.TabularSection.ЗаписиПосещаемости.Attribute.УважительнаяПричина" id="06c59b5e-35f6-5bdd-8202-eec331cc91fd"/>
+			<Metadata name="Document.ВедомостьУчетаПосещаемости.TabularSection.ЗаписиПосещаемости.Attribute.ЧасыПропусков" id="16919750-0ac1-5d29-a478-06d5db7dbbb8"/>
+			<Metadata name="Document.ВедомостьУчетаПосещаемости.Attribute.УчебныйПериод" id="2fe16936-74d9-5bab-a4d4-b7825c98a390"/>
+			<Metadata name="Document.ВедомостьУчетаПосещаемости.TabularSection.ЗаписиПосещаемости.Attribute.Студент" id="5710dffe-c53e-5b6f-b8be-dc6b83c0872f"/>
+			<Metadata name="Document.ВедомостьУчетаПосещаемости.TabularSection.ЗаписиПосещаемости.Attribute.ПричинаПропуска" id="7b9e6879-1c82-53d9-9ac8-b24f080f7b43"/>
+			<Metadata name="Document.ВедомостьУчетаПосещаемости.TabularSection.ЗаписиПосещаемости.Attribute.КоличествоОпозданий" id="b7708249-d404-5435-92b3-846e0b2fb57c"/>
+			<Metadata name="Document.ВедомостьУчетаПосещаемости.Attribute.УчебнаяГруппа" id="c37b1a66-bff9-5bc4-9028-1be0ac72703b"/>
+			<Metadata name="Document.ВедомостьУчетаПосещаемости.TabularSection.ЗаписиПосещаемости" id="c9e28f5f-be8e-5400-b1d2-be6711ebbee9"/>
+			<Metadata name="Document.ВедомостьУчетаПосещаемости.Attribute.Куратор" id="cb3e4787-e029-5bf4-ac07-1e0fed5e939e"/>
+		</Metadata>
+		<Metadata name="Document.ВедомостьУчетаПосещаемости.ObjectModule" id="0e482b37-cb60-5634-8b16-1452af313eeb.0" configVersion="434b509a0ac3ef41b0864ff88f757f4b00000000"/>
+		<Metadata name="Document.ПротоколВоспитательногоМероприятия" id="5551fce4-e0cc-5b4a-b7c3-1316b896ea0e" configVersion="478c9bea829dfc4badbd6e204724bf9600000000">
+			<Metadata name="Document.ПротоколВоспитательногоМероприятия.Attribute.Ответственный" id="231538af-1f75-53b5-af74-478ae5f57860"/>
+			<Metadata name="Document.ПротоколВоспитательногоМероприятия.TabularSection.УчастникиМероприятия.Attribute.УчебнаяГруппа" id="3bc11ad0-3185-5a56-91d2-e63e4f751f3e"/>
+			<Metadata name="Document.ПротоколВоспитательногоМероприятия.Attribute.УровеньМероприятия" id="48e6878c-af77-5d67-b1a4-7e5ffbd4f01f"/>
+			<Metadata name="Document.ПротоколВоспитательногоМероприятия.TabularSection.УчастникиМероприятия" id="5b73db0f-e9fb-5cf8-bf1a-f2fdfbd81a14"/>
+			<Metadata name="Document.ПротоколВоспитательногоМероприятия.Attribute.ВидМероприятия" id="8081c9bc-15a4-5225-89ea-fa96befce455"/>
+			<Metadata name="Document.ПротоколВоспитательногоМероприятия.TabularSection.УчастникиМероприятия.Attribute.Студент" id="8747b997-52fc-57cf-a684-aa622188a52b"/>
+			<Metadata name="Document.ПротоколВоспитательногоМероприятия.TabularSection.УчастникиМероприятия.Attribute.РезультатУчастия" id="db2207b2-ec85-5c34-a718-049836f0ce36"/>
+			<Metadata name="Document.ПротоколВоспитательногоМероприятия.TabularSection.УчастникиМероприятия.Attribute.НачисленоБаллов" id="e3048df6-c99b-52a6-8c3d-6d110517a644"/>
+		</Metadata>
+		<Metadata name="Document.ПротоколВоспитательногоМероприятия.ObjectModule" id="5551fce4-e0cc-5b4a-b7c3-1316b896ea0e.0" configVersion="d6bdbc0ac80c89499160d383f8e0230b00000000"/>
+		<Metadata name="Document.ПротоколИндивидуальнойПрофилактическойРаботы" id="4dc6dbac-70e6-5f00-9bf6-1c63f5cc177c" configVersion="29b0060095c1d641bde1197006d4629900000000">
+			<Metadata name="Document.ПротоколИндивидуальнойПрофилактическойРаботы.Attribute.СодержаниеПроведеннойРаботы" id="096e0afe-58bf-54a9-819a-26af3aae3a98"/>
+			<Metadata name="Document.ПротоколИндивидуальнойПрофилактическойРаботы.Attribute.Студент" id="2852d18a-6306-528d-88ab-1ff7dda1d699"/>
+			<Metadata name="Document.ПротоколИндивидуальнойПрофилактическойРаботы.Attribute.УчебнаяГруппа" id="3211c315-f46a-5f35-8c57-da33c11023d0"/>
+			<Metadata name="Document.ПротоколИндивидуальнойПрофилактическойРаботы.Attribute.Куратор" id="5976bd59-924c-5a2a-a102-e3c1ab654bb6"/>
+			<Metadata name="Document.ПротоколИндивидуальнойПрофилактическойРаботы.Attribute.ВидЗамечания" id="98119bd3-a965-5d58-a649-a69f8d58e8c7"/>
+		</Metadata>
+		<Metadata name="Document.ПротоколИндивидуальнойПрофилактическойРаботы.ObjectModule" id="4dc6dbac-70e6-5f00-9bf6-1c63f5cc177c.0" configVersion="ec4091a1e9cae840b0bed93e158ec51d00000000"/>
+		<Metadata name="Document.ПротоколКлассногоЧасаИИнструктажа" id="1c38ab6d-0cef-573c-9f5c-e3716c6ceea2" configVersion="79ae28e8f8290248975ddb0a7eaf84b800000000">
+			<Metadata name="Document.ПротоколКлассногоЧасаИИнструктажа.Attribute.Куратор" id="6bca6d77-5717-5bb2-9659-2d2b9d276447"/>
+			<Metadata name="Document.ПротоколКлассногоЧасаИИнструктажа.Attribute.ТемаКлассногоЧаса" id="7707307f-f39b-5889-a833-adb158e67138"/>
+			<Metadata name="Document.ПротоколКлассногоЧасаИИнструктажа.Attribute.УчебнаяГруппа" id="7ca581fb-0fd3-5df3-92f4-344cef8524a5"/>
+			<Metadata name="Document.ПротоколКлассногоЧасаИИнструктажа.TabularSection.ОзнакомленныеСтуденты" id="abf76cbe-4676-580f-b638-0c13349a2ef1"/>
+			<Metadata name="Document.ПротоколКлассногоЧасаИИнструктажа.Attribute.ВидМероприятия" id="b44c5c54-fd3a-58ad-aa13-93eb93054416"/>
+			<Metadata name="Document.ПротоколКлассногоЧасаИИнструктажа.TabularSection.ОзнакомленныеСтуденты.Attribute.Студент" id="d1eb2dc2-c44e-5a77-a12e-8740c461816f"/>
+			<Metadata name="Document.ПротоколКлассногоЧасаИИнструктажа.TabularSection.ОзнакомленныеСтуденты.Attribute.БаллУчастия" id="e08dc957-9970-59b8-8b3a-b07b7c55b264"/>
+		</Metadata>
+		<Metadata name="Document.ПротоколКлассногоЧасаИИнструктажа.ObjectModule" id="1c38ab6d-0cef-573c-9f5c-e3716c6ceea2.0" configVersion="bfe152cab8670e4fbced0e016ee8dfd200000000"/>
+		<Metadata name="Document.ПротоколРодительскогоСобрания" id="3cd89d82-0352-5d0f-8415-bcdfa235c9d0" configVersion="f4534fc524c4784697f3adf27d64428000000000">
+			<Metadata name="Document.ПротоколРодительскогоСобрания.TabularSection.ПрисутствиеРодителей.Attribute.Студент" id="2332e0de-56ec-51b4-a093-b0dd27433aac"/>
+			<Metadata name="Document.ПротоколРодительскогоСобрания.Attribute.УчебнаяГруппа" id="4a0cac9f-8a73-51f6-9878-b000f941a78d"/>
+			<Metadata name="Document.ПротоколРодительскогоСобрания.Attribute.Куратор" id="5b45e2a6-d21d-58f8-9810-535fd1a2c1bc"/>
+			<Metadata name="Document.ПротоколРодительскогоСобрания.TabularSection.ПрисутствиеРодителей.Attribute.ВидЗамечания" id="5caf080e-1062-520a-bb34-d2c8dd3e41c7"/>
+			<Metadata name="Document.ПротоколРодительскогоСобрания.TabularSection.ПрисутствиеРодителей.Attribute.ПроведенаИндивидуальнаяБеседа" id="6a97b457-bda1-56b4-9634-6ba4fc6bd097"/>
+			<Metadata name="Document.ПротоколРодительскогоСобрания.TabularSection.ПрисутствиеРодителей" id="ddaf4946-e839-5a94-9060-6fadfc3e7e63"/>
+			<Metadata name="Document.ПротоколРодительскогоСобрания.Attribute.ТемаСобрания" id="ee978fd3-e192-585f-bc73-ca8a33edf218"/>
+		</Metadata>
+		<Metadata name="Document.ПротоколРодительскогоСобрания.ObjectModule" id="3cd89d82-0352-5d0f-8415-bcdfa235c9d0.0" configVersion="68b6b5a97255cf4892498fa99fbe1f9800000000"/>
+		<Metadata name="Document.ХарактеристикаСтудента" id="cfc31d35-f7ba-561e-9349-3402cfa97be7" configVersion="8b7768d3cd550c4b98b17717505129b600000000">
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.ГодПоступления" id="0423886f-caad-5ab6-9d25-16b4a8193122"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.Курс" id="0c14993e-652c-5762-93af-a694f0f4c924"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.ИтоговыйТекстХарактеристики" id="16be80b2-1b6f-539e-a468-ec86c15566c4"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.УчебнаяГруппа" id="1fd6f824-3ef5-5cf2-90bb-c18e0ea11013"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Command.ПечатьОфициальногоБланкаСПК" id="3cec02df-fdc8-5453-9b27-da686309571b"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.АдресатВыдачи" id="47dc5946-d8d8-53da-ae2b-b2a52383ebf2"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.УчебныйПериод" id="4f2dd040-0605-58f4-8a43-e12096e631e1"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.СтатусСогласования" id="527737f4-6c38-53fd-9cf0-690103e3a117"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.АдресПроживания" id="5aa961a7-c64f-5e64-a0c2-ca7ff8535659"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.Успеваемость" id="5d0270dd-f9c8-5745-a7da-8f6ec0765a8e"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.Куратор" id="68f91eb7-2e43-583e-824f-b246dc9a60b9"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.Утверждена" id="72f88da9-c0fb-5ced-976b-89c3bedbe990"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.Студент" id="7499ca0f-66f3-54d3-a84d-8441663bff28"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.СтруктурноеПодразделение" id="7c60896f-0702-5346-9b44-124e4e28432b"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.ДатаРождения" id="7f683ca0-73a7-59d3-bd41-ffa51cbc6a76"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.Посещаемость" id="7f7aae61-6d35-59b8-b112-8ef6dfd8cc7c"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Command.АвтозаполнитьИзУчетныхРегистров" id="82de09fd-d653-5abb-aee4-8bd1aaa73fe0"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.СтаршийПедагогДопОбразования" id="834519c8-8e4b-559f-bccc-927983e052f3"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.КомментарийИПрофилактика" id="97a3add2-7236-53c4-8c23-46d5bd57f217"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.ВзаимоотношенияВСемье" id="9f15114b-199c-517e-a17c-a05127091060"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.ПсихологическаяХарактеристика" id="a659db30-7d3c-5c13-b54b-4cd6237aadf7"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.ВредныеПривычки" id="ab66107a-4edf-525d-a6ab-03c1ba9a956a"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.Статус" id="b4b7a065-c4a9-5426-b7e7-065a91b7dd13"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.Ответственный" id="c0a449a3-e1bf-57fa-865d-757c74caaa4b"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.Организация" id="c69afe80-7d0d-5386-a1d2-bbf79a535bc0"/>
+			<Metadata name="Document.ХарактеристикаСтудента.Attribute.УчастиеВОбщественнойЖизни" id="eec84aea-1879-5ec5-9548-92b2cae1f85e"/>
+		</Metadata>
+		<Metadata name="Document.ХарактеристикаСтудента.Command.АвтозаполнитьИзУчетныхРегистров.CommandModule" id="82de09fd-d653-5abb-aee4-8bd1aaa73fe0.2" configVersion="9c47a8f5c3bc634ea91021e014154f5700000000"/>
+		<Metadata name="Document.ХарактеристикаСтудента.Command.ПечатьОфициальногоБланкаСПК.CommandModule" id="3cec02df-fdc8-5453-9b27-da686309571b.2" configVersion="b9e634954371f44c8ab3133cf0e7eba000000000"/>
+		<Metadata name="Document.ХарактеристикаСтудента.ObjectModule" id="cfc31d35-f7ba-561e-9349-3402cfa97be7.0" configVersion="b32e77cb7074e449be45109ce70e0b2400000000"/>
+		<Metadata name="Enum.ПолФизическогоЛица" id="0e04ebbd-5ef7-5e83-a2ee-89562b510ff8" configVersion="628f7f165f2c3041a4b1cf2405c463dc00000000">
+			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Мужской" id="bd80feaf-afaf-5131-9f5f-912cd863acc3"/>
+			<Metadata name="Enum.ПолФизическогоЛица.EnumValue.Женский" id="f0e0d77f-27a8-58a7-a4db-2961e9f5d313"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусОбучающегося" id="676bef16-189c-5fd5-abd7-56717e522f85" configVersion="d19943b3bc295a4184eadeda4d6f6f4d00000000">
+			<Metadata name="Enum.СтатусОбучающегося.EnumValue.Переведен" id="1a5c1555-2ed6-5f8f-b8d5-9fa8a10baaa5"/>
+			<Metadata name="Enum.СтатусОбучающегося.EnumValue.АкадемическийОтпуск" id="ac123551-f4d8-5d9d-8114-f99482135126"/>
+			<Metadata name="Enum.СтатусОбучающегося.EnumValue.Отчислен" id="b8277849-ae0f-54f8-b223-89124d2bba4f"/>
+			<Metadata name="Enum.СтатусОбучающегося.EnumValue.Обучается" id="be9286f6-971d-57a4-b08b-954266739908"/>
+			<Metadata name="Enum.СтатусОбучающегося.EnumValue.Выпущен" id="fb69d858-d076-5e6f-940e-d8ce9ad96ac9"/>
+		</Metadata>
+		<Metadata name="Enum.СтатусСогласованияХарактеристики" id="111925f4-8846-58b4-8ee4-0c9bb0d6c161" configVersion="1c3d2fd10c779f4c863725fd18e3fe8000000000">
+			<Metadata name="Enum.СтатусСогласованияХарактеристики.EnumValue.ВыданаПоМестуТребования" id="0af39378-7c52-5777-9dec-cf104448680d"/>
+			<Metadata name="Enum.СтатусСогласованияХарактеристики.EnumValue.НаСогласовании" id="23212de4-2e36-5c5e-a091-5ba1b25c0f39"/>
+			<Metadata name="Enum.СтатусСогласованияХарактеристики.EnumValue.Утверждена" id="537f9f29-a991-5e88-b9d1-4268d7ea71be"/>
+			<Metadata name="Enum.СтатусСогласованияХарактеристики.EnumValue.ВозвращенаНаДоработку" id="ba0c9af8-0fc1-56ed-82fc-bca12e022b52"/>
+			<Metadata name="Enum.СтатусСогласованияХарактеристики.EnumValue.Черновик" id="f8636bd8-c39a-5757-b05a-a84abb494b0a"/>
+		</Metadata>
+		<Metadata name="Enum.УровеньМероприятия" id="a0ca48a9-d4eb-503f-8005-c88fd7210836" configVersion="fc866fcf733c5a4dab7628968d69345700000000">
+			<Metadata name="Enum.УровеньМероприятия.EnumValue.Групповой" id="665c6a49-71a2-50bd-b443-1e7d14f84dc3"/>
+			<Metadata name="Enum.УровеньМероприятия.EnumValue.Городской" id="acf017a1-aa0e-5a15-aa65-280028a12cf8"/>
+			<Metadata name="Enum.УровеньМероприятия.EnumValue.Всероссийский" id="b2a1aa39-26e3-57c4-8e6a-e5ca2cabc750"/>
+			<Metadata name="Enum.УровеньМероприятия.EnumValue.Окружной" id="b4cfdeeb-8993-5dba-96a3-e830d282b593"/>
+			<Metadata name="Enum.УровеньМероприятия.EnumValue.Колледжный" id="c34b1ed9-24c8-5f82-8694-b8ab5965e8f7"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ПсихологоПедагогическийПрофильСтудентов" id="3d6e07c5-ec6e-5121-aa75-8c0071e5b7cb" configVersion="ca569a4ca0bffe40aa8b12aa344b656800000000">
+			<Metadata name="InformationRegister.ПсихологоПедагогическийПрофильСтудентов.Resource.ВзаимоотношенияВСемье" id="08c20138-3602-5940-be23-9657fdcb7e68"/>
+			<Metadata name="InformationRegister.ПсихологоПедагогическийПрофильСтудентов.Resource.ОтношениеКВреднымПривычкам" id="15fc9104-5638-5f15-b843-fb792773035a"/>
+			<Metadata name="InformationRegister.ПсихологоПедагогическийПрофильСтудентов.Resource.ДополнительныеСведенияИВПК" id="63eb4db4-b36a-5751-980e-2ee14745bc6b"/>
+			<Metadata name="InformationRegister.ПсихологоПедагогическийПрофильСтудентов.Dimension.Студент" id="6c88252e-a00b-5c62-baee-a31d0a31cf05"/>
+			<Metadata name="InformationRegister.ПсихологоПедагогическийПрофильСтудентов.Resource.ПроведеннаяПрофилактическаяРабота" id="eb22e798-2a9a-5135-ae5c-67c12aefffdd"/>
+			<Metadata name="InformationRegister.ПсихологоПедагогическийПрофильСтудентов.Resource.ПсихологическаяХарактеристика" id="f7cc92d2-b302-5ec1-806a-ca569565675f"/>
+		</Metadata>
+		<Metadata name="InformationRegister.СводныеПоказателиУспеваемостиИЗадолженностей" id="bbe13b7a-0ca7-507d-8acc-961795fbc910" configVersion="2c3258418e3d8f4ea266a060a1d1c0bf00000000">
+			<Metadata name="InformationRegister.СводныеПоказателиУспеваемостиИЗадолженностей.Dimension.УчебнаяДисциплина" id="5144f8dc-398e-53ed-be30-5aa597a9464b"/>
+			<Metadata name="InformationRegister.СводныеПоказателиУспеваемостиИЗадолженностей.Dimension.УчебныйПериод" id="57ef656f-ed72-5396-9c13-05f5e75b1f65"/>
+			<Metadata name="InformationRegister.СводныеПоказателиУспеваемостиИЗадолженностей.Resource.НеАттестован" id="5dcd8935-19ba-591f-bd9a-0b3625a1a08d"/>
+			<Metadata name="InformationRegister.СводныеПоказателиУспеваемостиИЗадолженностей.Resource.СреднийБалл" id="7cc756be-775b-587c-99b0-1f6edc23e2cf"/>
+			<Metadata name="InformationRegister.СводныеПоказателиУспеваемостиИЗадолженностей.Dimension.Курс" id="8e312760-1d05-590d-bd37-99842bfde94e"/>
+			<Metadata name="InformationRegister.СводныеПоказателиУспеваемостиИЗадолженностей.Resource.ОценкаПоДисциплине" id="aa6cd522-52b7-5172-86a7-e6a90d251c8e"/>
+			<Metadata name="InformationRegister.СводныеПоказателиУспеваемостиИЗадолженностей.Dimension.Студент" id="ac8e9a04-7e4b-5904-96cd-aac5dac1b3b0"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="5e764adf-50dd-40ed-84ae-7ff7d4e6aa70" configVersion="3dd4c98d4e12a947b2d9699382f24a3000000000"/>
+		<Metadata name="Report.АнализУспеваемостиИАкадемическихЗадолженностей" id="9d057b7d-5378-5c43-aa66-8e0f79d2fc73" configVersion="1c5f933f2eefa04a9bba45ca16d82d1100000000">
+			<Metadata name="Report.АнализУспеваемостиИАкадемическихЗадолженностей.Command.ПечатьОтчета" id="fc535c93-3dc9-51cc-b913-7d5b70e117b1"/>
+		</Metadata>
+		<Metadata name="Report.АнализУспеваемостиИАкадемическихЗадолженностей.Command.ПечатьОтчета.CommandModule" id="fc535c93-3dc9-51cc-b913-7d5b70e117b1.2" configVersion="fa9183edbad9f34cba7dbce024e3996200000000"/>
+		<Metadata name="Report.МониторингДисциплиныИПрофилактическойРаботы" id="0fed017c-1a5b-535f-9029-1fff163685b8" configVersion="c22b4076f3d651449eb9e2686a47a60b00000000">
+			<Metadata name="Report.МониторингДисциплиныИПрофилактическойРаботы.Command.ПечатьОтчета" id="e95beb92-3fed-54f1-9b2c-1636eb8cd55e"/>
+		</Metadata>
+		<Metadata name="Report.МониторингДисциплиныИПрофилактическойРаботы.Command.ПечатьОтчета.CommandModule" id="e95beb92-3fed-54f1-9b2c-1636eb8cd55e.2" configVersion="b6f48479c097054a88a6955ba3fd403600000000"/>
+		<Metadata name="Report.РеестрВыданныхХарактеристикСтудентов" id="f921f385-dedf-5234-941e-0e7b2552ddbc" configVersion="fc69f6c7d5492f4e88f81274d90b447f00000000">
+			<Metadata name="Report.РеестрВыданныхХарактеристикСтудентов.Command.ПечатьОтчета" id="34b1476e-a94e-5822-9c24-74b192f7afde"/>
+		</Metadata>
+		<Metadata name="Report.РеестрВыданныхХарактеристикСтудентов.Command.ПечатьОтчета.CommandModule" id="34b1476e-a94e-5822-9c24-74b192f7afde.2" configVersion="dffb3fd3dcbab54ca2ac161bc8e1e1f200000000"/>
+		<Metadata name="Report.РейтингВоспитательнойИОбщественнойАктивности" id="c7dd7fa7-d222-538a-a37e-772f90f5398f" configVersion="91c69277c49e8446933b3dcaf06ee4d500000000">
+			<Metadata name="Report.РейтингВоспитательнойИОбщественнойАктивности.Command.ПечатьОтчета" id="32f96045-9568-5f6b-aee4-7c36468e196f"/>
+		</Metadata>
+		<Metadata name="Report.РейтингВоспитательнойИОбщественнойАктивности.Command.ПечатьОтчета.CommandModule" id="32f96045-9568-5f6b-aee4-7c36468e196f.2" configVersion="4b6e86617dfc5044a8a5dc357381ffb400000000"/>
+		<Metadata name="Report.СводнаяВедомостьПосещаемостиИПропусков" id="6d69b515-c2a6-5daf-bd83-51365425bbb6" configVersion="33df898d3105b34496d672d211413a6900000000">
+			<Metadata name="Report.СводнаяВедомостьПосещаемостиИПропусков.Command.ПечатьОтчета" id="6dcf51c3-e11f-5b1a-a0bf-51bb94fdeedd"/>
+		</Metadata>
+		<Metadata name="Report.СводнаяВедомостьПосещаемостиИПропусков.Command.ПечатьОтчета.CommandModule" id="6dcf51c3-e11f-5b1a-a0bf-51bb94fdeedd.2" configVersion="d6ca3821bab7e442b0ffb4fd4d7c927800000000"/>
+		<Metadata name="Role.АдминистраторСистемы" id="419e6507-2725-5f3b-99a3-77239fc355da" configVersion="34a9e6de518b3144a699014fe63ad48500000000"/>
+		<Metadata name="Role.АдминистраторСистемы.Rights" id="419e6507-2725-5f3b-99a3-77239fc355da.0" configVersion="291137280d0aad42a07e7ba72e35577300000000"/>
+		<Metadata name="Role.КураторУчебнойГруппы" id="9a49b5a8-a23c-5323-8716-594a44e713f7" configVersion="c57e77d0275330428589267b64b3594800000000"/>
+		<Metadata name="Role.КураторУчебнойГруппы.Rights" id="9a49b5a8-a23c-5323-8716-594a44e713f7.0" configVersion="4d6d5ca8412fab4896b0f25a4b0f36b900000000"/>
+		<Metadata name="Role.СтаршийПедагогОтделения" id="55ffb591-85e2-5142-bff0-8784f3cf91c6" configVersion="a06d1cad3cbad74889318d8fa18e184d00000000"/>
+		<Metadata name="Role.СтаршийПедагогОтделения.Rights" id="55ffb591-85e2-5142-bff0-8784f3cf91c6.0" configVersion="3703681cb3ff6941a9ff863eeac1040a00000000"/>
+		<Metadata name="Subsystem.ВоспитательнаяРабота" id="da18af31-416e-539f-baae-14704e962978" configVersion="efccc1651de9d94780bf0aefaa8deaaf00000000"/>
+		<Metadata name="Subsystem.КонтингентИУчебныеГруппы" id="e4582896-9b21-5822-9901-db780962d4bb" configVersion="42fe59c66b581f458a9bb3518a6a356f00000000"/>
+		<Metadata name="Subsystem.РабочийСтолКуратора" id="6031efcb-664d-5a88-b4ab-443147b038f3" configVersion="ab597e79d5a59f4fabb7b200af2fbc0200000000"/>
+		<Metadata name="Subsystem.УспеваемостьИПосещаемость" id="1a501f8c-ccdf-5877-95e0-41dd9a56d191" configVersion="d6650cb486193442a03f617a5040d3b100000000"/>
+		<Metadata name="Task.ЗадачаПоВоспитательнойРаботе" id="44ed7b5d-d551-5ac8-919e-a414710168bb" configVersion="43e575b2703d124abec65ac59578bc1200000000">
+			<Metadata name="Task.ЗадачаПоВоспитательнойРаботе.Attribute.Студент" id="705dd8b7-b7e1-5458-a44a-a88463a9014e"/>
+			<Metadata name="Task.ЗадачаПоВоспитательнойРаботе.Attribute.Исполнитель" id="a2a9395f-32ec-5a30-ab62-9bc26e2205a6"/>
+			<Metadata name="Task.ЗадачаПоВоспитательнойРаботе.Attribute.СтруктурноеПодразделение" id="ca436fb0-91d5-5c2a-a84f-ea4b4b81caac"/>
+		</Metadata>
+	</ConfigVersions>
+</ConfigDumpInfo>
